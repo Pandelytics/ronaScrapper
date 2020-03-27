@@ -1,1 +1,1 @@
-web: python ronaAnalysis.py
+web: python app.py
